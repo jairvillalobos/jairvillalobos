@@ -2,7 +2,6 @@
 
   <a href="https://www.linkedin.com/in/jair-villalobos-b06ba621b" target="_blank"><img src="https://img.shields.io/badge/jairvillalobos-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:juanvillalobosnz@gmail.com"><img src="https://img.shields.io/badge/-jairvillalobos-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Juan Jair Villalobos Nuñez#4240" target="_blank"><img src="https://img.shields.io/badge/jairvillalobos-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://jairvillalobos.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div> 
 
