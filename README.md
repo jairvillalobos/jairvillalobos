@@ -8,7 +8,7 @@
 ##  Hola, soy Jair Villalobos, Full Stack Software Developer
 <div align="left">
   <a href="https://github.com/jairvillalobos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairvillalobos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairvillalobos&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairvillalobos&layout=compact&langs_count=7&theme="/>
 </div>
 
